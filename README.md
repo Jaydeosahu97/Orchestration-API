@@ -44,7 +44,7 @@ This is a User Management Application built with Java and Spring Boot. It provid
     ```sh
     mvn spring-boot:run
     ```
-2. The application will start on `http://localhost:8080`.
+2. The application will start on `http://localhost:9090`.
 
 ### API Endpoints
 
