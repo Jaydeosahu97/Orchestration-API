@@ -31,7 +31,7 @@ This is a User Management Application built with Java and Spring Boot. It provid
     ```
 2. Navigate to the project directory:
     ```sh
-    cd user-management
+    cd Orchestration-API
     ```
 3. Build the project:
     ```sh
